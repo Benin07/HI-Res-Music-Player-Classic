@@ -69,6 +69,23 @@ python "AI Dev Music Player/music_player.py"
 
 The window titled **"Hi-Res Music Player"** will appear. Add your music and press Play.
 
+
+<p align="center">
+  <img src="images/music-player-screenshot.png" alt="Hi-Res Music Player — Classic" width="520"/>
+  <br/>
+  <em>The player in action — clean, classic, zero bloat.</em>
+</p>
+
+---
+
+## 📸 Screenshots
+
+| Main Window |
+|-------------|
+| <img src="images/music-player-screenshot.png" alt="Main window with playlist, transport controls, seek bar and volume slider" width="520"/> |
+
+
+
 ---
 
 ## 🎮 Usage
